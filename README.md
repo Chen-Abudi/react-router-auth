@@ -21,10 +21,7 @@ This practice project focus on working with authentication in React.
 - ExpressJS
 - CSS Modules
 
-## 🛠️ Techniques:
-
-- **`bcryptjs`**
-- **`jsonwebtoken`**
+<!-- ## 🛠️ Techniques: -->
 
 ---
 
