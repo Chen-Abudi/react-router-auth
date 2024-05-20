@@ -11,6 +11,7 @@
 ## 🔎 Intro:
 
 This practice project focus on working with authentication in React.
+It's the updated version of the [react-router-full](https://github.com/Chen-Abudi/react-router-full) project.
 
 ## 🧰 Tech Stack:
 
@@ -32,7 +33,7 @@ This practice project focus on working with authentication in React.
 - **`React Router Dom Hooks`**:
 
   - **_useRouteLoaderData_**: Is a hook that efficiently manages loading states and data for specific routes. It optimizes rendering by fetching data only when needed, enhancing user experience.
-  - **_useRouteError_**: This hook returns anything during an action, loader, or rendering inside of an **errorElement**.
+  - **_useRouteError_**: Is a hook that returns anything during an action, loader, or rendering inside of an **errorElement**.
   - **_useNavigation_**: Is a hook that provides imperative navigation capabilities. It allows to programmatically navigate to different routes, pass state, and control navigation history, enhancing dynamic routing and user experience management.
 
 ---
