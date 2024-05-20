@@ -11,7 +11,7 @@
 ## 🔎 Intro:
 
 This practice project focus on working with authentication in React.
-It's the updated version of the [**`react-router-full`**](https://github.com/Chen-Abudi/react-router-full) project.
+It's the updated version of the [**_react-router-full_**](https://github.com/Chen-Abudi/react-router-full) project.
 
 ## 🧰 Tech Stack:
 
