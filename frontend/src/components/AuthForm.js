@@ -1,4 +1,3 @@
-// import { useState } from 'react';
 import { Form, Link, useSearchParams } from "react-router-dom";
 
 import classes from "./AuthForm.module.css";
@@ -6,12 +5,6 @@ import classes from "./AuthForm.module.css";
 function AuthForm() {
   const [searchParams] = useSearchParams();
   const isLogin = searchParams.get("mode") === "login";
-
-  // const [isLogin, setIsLogin] = useState(true);
-
-  // function switchAuthHandler() {
-  //   setIsLogin((isCurrentlyLogin) => !isCurrentlyLogin);
-  // }
 
   return (
     <>
