@@ -24,6 +24,14 @@ This practice project focus on working with authentication in React.
 ## 🛠️ Techniques:
 
 - Authentication
+- **_redirect_**: When returning or throwing responses in loaders and actions, we can use redirect to redirect to another route.
+
+  **`Note`**: It's recommended to use redirect in loaders and actions rather than useNavigate in your components when the redirect is in response to data.
+
+- **`React Router Dom Hooks`**:
+
+  - **_useRouteLoaderData_**: Is a hook that efficiently manages loading states and data for specific routes. It optimizes rendering by fetching data only when needed, enhancing user experience.
+  - **_useRouteError_**: This hook returns anything during an action, loader, or rendering inside of an **errorElement**.
 
 ---
 
