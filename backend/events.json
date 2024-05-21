@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"A new event","image":"https://plus.unsplash.com/premium_photo-1681487469745-91d1d8a5836b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","date":"2024-05-28","description":"A conference meeting with a special guest.","id":"31906a20-3546-4479-9c04-4a74fc88cae5"},{"title":"A new event","image":"https://images.unsplash.com/photo-1511795409834-ef04bbd61622?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","date":"2024-05-23","description":"A birthday dinner with family and friends.","id":"04d10a65-52df-4e32-add5-ce10b97c44e5"}],"users":[{"email":"test5@test5.com","password":"$2a$12$Don2XGeCtmUhLkx9X5t7cuwhLSaIKgpL7Q0TlEz/qbBgcNlvaJAZ2","id":"4e6ba3bd-c3a1-495b-be47-f24aee7e670f"},{"email":"test@test.com","password":"$2a$12$lB3ldTcYbYMCKCwSXfHpaOHYQZNq7Tko5yV43YkUcOr7/cr.ztrQW","id":"1bde15a1-65a7-4228-9912-8784fb1f743c"}]}
