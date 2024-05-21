@@ -16,7 +16,7 @@ export async function action({ request }) {
     throw json({ message: "Unsupported mode." }, { status: 422 });
   }
 
-  const data = request.formData();
+  const data = await request.formData();
   const authData = {
     email: data.get("email"),
     password: data.get("password"),
@@ -43,6 +43,5 @@ export async function action({ request }) {
 
   localStorage.setItem("token", token);
 
-  // TODO: Manage the token here later
   return redirect("/");
 }
